@@ -1,0 +1,81 @@
+{
+  "topic": "为什么猫总在半夜跑酷",
+  "style": "知识科普",
+  "duration_sec": 60,
+  "lang": "zh",
+  "timing_note": "时间轴按语速估计：中文约 4.5 字/秒；仅供参考，剪辑时以实际配音为准。",
+  "hooks": [
+    {
+      "archetype": "反常识",
+      "text": "【干跑占位】「为什么猫总在半夜跑酷」钩子示例文案（反常识式）"
+    },
+    {
+      "archetype": "数字冲击",
+      "text": "【干跑占位】「为什么猫总在半夜跑酷」钩子示例文案（数字冲击式）"
+    },
+    {
+      "archetype": "悬念",
+      "text": "【干跑占位】「为什么猫总在半夜跑酷」钩子示例文案（悬念式）"
+    }
+  ],
+  "title_options": [
+    "【干跑占位】「为什么猫总在半夜跑酷」标题示例 1",
+    "【干跑占位】「为什么猫总在半夜跑酷」标题示例 2",
+    "【干跑占位】「为什么猫总在半夜跑酷」标题示例 3"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 12.0,
+      "narration": "【干跑占位】这是第 1 幕的口播文案示例。真实运行时，这里会是 AI 为「为什么猫总在半夜跑酷」生成的口播稿，可直接复制去 TTS。",
+      "visual_prompt_en": "[dry-run placeholder] vertical 9:16 cinematic still for scene 1, no text in image",
+      "overlay_text": "占位花字1",
+      "b_roll": "【干跑占位】第 1 幕的 B-roll / 分镜描述示例。"
+    },
+    {
+      "index": 2,
+      "start": 12.0,
+      "end": 24.0,
+      "narration": "【干跑占位】这是第 2 幕的口播文案示例。真实运行时，这里会是 AI 为「为什么猫总在半夜跑酷」生成的口播稿，可直接复制去 TTS。",
+      "visual_prompt_en": "[dry-run placeholder] vertical 9:16 cinematic still for scene 2, no text in image",
+      "overlay_text": "占位花字2",
+      "b_roll": "【干跑占位】第 2 幕的 B-roll / 分镜描述示例。"
+    },
+    {
+      "index": 3,
+      "start": 24.0,
+      "end": 36.0,
+      "narration": "【干跑占位】这是第 3 幕的口播文案示例。真实运行时，这里会是 AI 为「为什么猫总在半夜跑酷」生成的口播稿，可直接复制去 TTS。",
+      "visual_prompt_en": "[dry-run placeholder] vertical 9:16 cinematic still for scene 3, no text in image",
+      "overlay_text": "占位花字3",
+      "b_roll": "【干跑占位】第 3 幕的 B-roll / 分镜描述示例。"
+    },
+    {
+      "index": 4,
+      "start": 36.0,
+      "end": 48.0,
+      "narration": "【干跑占位】这是第 4 幕的口播文案示例。真实运行时，这里会是 AI 为「为什么猫总在半夜跑酷」生成的口播稿，可直接复制去 TTS。",
+      "visual_prompt_en": "[dry-run placeholder] vertical 9:16 cinematic still for scene 4, no text in image",
+      "overlay_text": "占位花字4",
+      "b_roll": "【干跑占位】第 4 幕的 B-roll / 分镜描述示例。"
+    },
+    {
+      "index": 5,
+      "start": 48.0,
+      "end": 60.0,
+      "narration": "【干跑占位】这是第 5 幕的口播文案示例。真实运行时，这里会是 AI 为「为什么猫总在半夜跑酷」生成的口播稿，可直接复制去 TTS。",
+      "visual_prompt_en": "[dry-run placeholder] vertical 9:16 cinematic still for scene 5, no text in image",
+      "overlay_text": "占位花字5",
+      "b_roll": "【干跑占位】第 5 幕的 B-roll / 分镜描述示例。"
+    }
+  ],
+  "description": "【干跑占位】「为什么猫总在半夜跑酷」的发布简介示例。真实运行时由 AI 生成。",
+  "hashtags": [
+    "干跑示例",
+    "clipkit",
+    "短视频",
+    "剪映",
+    "AI"
+  ]
+}
