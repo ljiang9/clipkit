@@ -1,0 +1,7 @@
+# 生成的输出（默认 ./clips）
+clips/
+# Python 缓存
+__pycache__/
+*.py[cod]
+# 本地密钥
+.env
